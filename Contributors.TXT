@@ -1,0 +1,29 @@
+venkatnaidu@users.sourceforge.net 
+
+
+   	  PROJECTS DONE AT International Institute of Information Technology Bangalore
+
+	
+8 ########DATA ENGINEERING PROJECT:						
+
+		Title: SUFFIX TREES 				Status: COMPLETED_GRAND SUCCESS
+
+		Platform: Linux(SUSE)				Programming Language:  'C'
+
+	Roll Number		Name				 Email-ID:
+	2005145          Venkata Thippanna Rao P  R              venkata.thippannarao@iiitb.ac.in
+
+	2005117          Shashank Handa                          shashan.handa@iiitb.ac.in
+
+	2005151		 Vikram Jain				 vikram.jain@iiitb.ac.in
+
+
+
+
+
+
+
+
+
+
+ 
